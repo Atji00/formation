@@ -1,5 +1,6 @@
 {'name':25,
 'taille': 45,
 'hut':29.45,
-'parti':{'p1':"aziz", 'p2':'anna'}
+'parti':{'p1':"aziz", 'p2':'anna'},
+'time':156.23
 }
