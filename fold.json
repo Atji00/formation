@@ -4,3 +4,8 @@
 'parti':{'p1':"aziz", 'p2':'anna'},
 'time':156.23
 }
+
+{
+  "nom": ['Alice', 'bob'],
+  "age": [15, 28]
+}
