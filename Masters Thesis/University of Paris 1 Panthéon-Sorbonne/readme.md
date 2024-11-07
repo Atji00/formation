@@ -3,4 +3,4 @@
 - Extract (dezip!) data_colombia
 - Select one file.rar of your choice and extract in the same folder 
 - You need Winrar to execute extraction:
--     if you don't have it, follow this [link](https://www.win-rar.com/download.html?&L=10)
+-  if you don't have it, follow this [link](https://www.win-rar.com/download.html?&L=10)
